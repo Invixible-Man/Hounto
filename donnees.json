@@ -1,0 +1,65 @@
+{
+  "id": "d025afaf-485a-4475-9482-ffdb60819648",
+  "created_at": "2026-10-11T14:25:39.87724+00:00",
+  "name": "Hounto 🍄😋",
+  "category": "Restauration & alimentation",
+  "city": "Cotonou/Abomey calavi",
+  "description": "Hounto est une marque béninoise spécialisée dans la production et la transformation du champignon comestible 🍄.",
+  "owner_name": "Emmella GOUBALI",
+  "phone": "0165555523/0190460593",
+  "whatsapp": "0165555523/0190460593",
+  "email": "emmellagoubali@gmail.com",
+  "address": "Cotonou/ Abomey calavi",
+  "hours": "7/7",
+  "social": {
+    "tiktok": "Hounto",
+    "facebook": "https://www.facebook.com/share/1CLSqYVKuv/"
+  },
+  "logo_choice": "a_un_logo",
+  "logo_path": null,
+  "brand_colors": [
+    "#c2410c"
+  ],
+  "brand_style": "Chaleureux & traditionnel",
+  "slogan": "Champignons,le goût du bien être.",
+  "brand_files": [],
+  "gallery_paths": [],
+  "notes": "Nous livrons sur commande d'au moins 48h à l'avance.",
+  "status": "recu",
+  "site_url": null,
+  "items": [
+    {
+      "id": "2322fd79-0472-4d67-b5ba-332f685a8993",
+      "name": "Repas fait à base du champignon",
+      "type": "produit",
+      "price": 3000,
+      "position": 0,
+      "created_at": "2026-10-11T14:25:40.480756+00:00",
+      "image_path": null,
+      "business_id": "d025afaf-485a-4475-9482-ffdb60819648",
+      "description": "Repas et recettes à base du champignon comestible."
+    },
+    {
+      "id": "19fe6f6c-9f36-4a4f-95b2-66f15a638021",
+      "name": "Champignons comestibles frais",
+      "type": "produit",
+      "price": 4000,
+      "position": 1,
+      "created_at": "2026-10-11T14:25:40.480756+00:00",
+      "image_path": null,
+      "business_id": "d025afaf-485a-4475-9482-ffdb60819648",
+      "description": null
+    },
+    {
+      "id": "57302aaa-e50b-449b-9a89-de0a728c7eb9",
+      "name": "Champignons comestibles déshydratés",
+      "type": "produit",
+      "price": 3000,
+      "position": 2,
+      "created_at": "2026-10-11T14:25:40.480756+00:00",
+      "image_path": null,
+      "business_id": "d025afaf-485a-4475-9482-ffdb60819648",
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+
+
+# Outils de travail (ne pas publier)
+.claude/
+.mcp.json
+.DS_Store
+.env
+.env.local
+.vscode/
